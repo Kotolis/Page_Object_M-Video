@@ -1,6 +1,6 @@
-package Tests;
+package tests;
 
-import Steps.Steps;
+import steps.Steps;
 import com.codeborne.selenide.Selenide;
 import org.testng.annotations.Test;
 
