@@ -1,7 +1,9 @@
-package pages;
+package Steps;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Selenide;
+import pages.FilterElem;
+import pages.MvideoPageElem;
 
 
 public class Steps {
